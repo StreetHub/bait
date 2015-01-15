@@ -1,0 +1,27 @@
+{
+  "name": "bluebird-hooks",
+  "version": "0.0.0",
+  "description": "Pre and post hooks for any function returning promises",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bluebird",
+    "hook",
+    "hooks",
+    "bait"
+  ],
+  "author": "Streethub",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "bluebird": "^2.1.1",
+    "sinon-chai": "^2.5.0",
+    "chai": "^1.9.1",
+    "sinon": "^1.10.2"
+  }
+}

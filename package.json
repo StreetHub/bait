@@ -1,6 +1,6 @@
 {
-  "name": "bluebird-hooks",
-  "version": "0.0.0",
+  "name": "bait",
+  "version": "0.0.1",
   "description": "Pre and post hooks for any function returning promises",
   "main": "index.js",
   "directories": {

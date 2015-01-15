@@ -1,1 +1,1 @@
-module.exports = require('./lib/bluebird-hooks');
+module.exports = require('./lib/bait');

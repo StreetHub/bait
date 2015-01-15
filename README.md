@@ -2,6 +2,8 @@
 
 Hook library for [Bluebird](https://github.com/petkaantonov/bluebird)
 
+Release in progress
+
 ## API
 
 - `pre/2`: assign a pre-hook to the method

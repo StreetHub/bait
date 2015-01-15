@@ -1,4 +1,4 @@
-# Bait [![Circle CI](https://circleci.com/gh/StreetHub/bait.svg?style=svg&circle-token=7f3d164f324d7417d0e35b8f0b76db245616714a)](https://circleci.com/gh/StreetHub/bait)
+# Bait [![Circle CI](https://circleci.com/gh/StreetHub/bait.svg?style=svg)](https://circleci.com/gh/StreetHub/bait)
 
 Hook library for [Bluebird](https://github.com/petkaantonov/bluebird)
 
